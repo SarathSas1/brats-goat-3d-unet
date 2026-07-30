@@ -1,5 +1,7 @@
 # 3D U-Net for Brain Tumour Segmentation on BraTS-GoAT 2024
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SarathSas1/brats-goat-3d-unet/blob/main/brats_goat_2024_3d_unet_training_evaluation.ipynb)
+
 This repository contains the Google Colab notebook I used to develop,
 train, and evaluate a custom residual 3D U-Net with deep supervision for
 multimodal brain MRI tumour segmentation.
