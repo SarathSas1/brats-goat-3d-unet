@@ -1,0 +1,30 @@
+# Environment variables and secrets
+.env
+
+# Medical imaging data
+data/
+*.nii
+*.nii.gz
+
+# Model weights and checkpoints
+*.h5
+*.weights.h5
+*.keras
+*.ckpt
+checkpoints/
+
+# Generated outputs
+output/
+outputs/
+results/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
